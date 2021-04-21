@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "project74",
+    "slug": "snack-65160637-e7dd-4cdc-a6f4-ee711359e66e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "We all love stories… All kinds of stories - science fiction, fiction, non fiction as well as bedtime stories!\nSo, this is an app where all story lovers have access to read the stories and the writers have access to write the stories."
+  }
+}
